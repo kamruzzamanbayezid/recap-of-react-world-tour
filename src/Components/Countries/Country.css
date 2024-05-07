@@ -1,0 +1,16 @@
+.country{ 
+      border: 1px solid red;
+      border-radius: 15px;
+      padding: 16px;
+}
+
+.country img{
+       width: 100%;
+       height: 200px;
+       border-radius: 15px;
+}
+
+.country button{ 
+      background: black;
+      color: wheat;
+}
